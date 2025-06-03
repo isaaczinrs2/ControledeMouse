@@ -22,8 +22,8 @@ Este projeto foi desenvolvido durante o **Intensivão de Python da Ctrl+Play (20
 1. **Clone o repositório:**
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
+git clone https://github.com/isaaczinrs2/ControledeMouse.git
+cd ControledeMouse
 ````
 
 2. **Instale as dependências:**
