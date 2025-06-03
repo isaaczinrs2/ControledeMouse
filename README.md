@@ -17,10 +17,6 @@ Este projeto foi desenvolvido durante o **Intensivão de Python da Ctrl+Play (20
 - [MediaPipe](https://google.github.io/mediapipe/)
 - [PyAutoGUI](https://pyautogui.readthedocs.io/en/latest/)
 
-## 📷 Demonstração (GIF ou imagem)
-
-*Adicione aqui um GIF ou imagem mostrando o funcionamento do projeto.*
-
 ## 🚀 Como executar
 
 1. **Clone o repositório:**
